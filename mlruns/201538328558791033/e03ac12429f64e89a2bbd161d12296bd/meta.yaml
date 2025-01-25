@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033/e03ac12429f64e89a2bbd161d12296bd/artifacts
+end_time: 1737784563318
+entry_point_name: ''
+experiment_id: '201538328558791033'
+lifecycle_stage: active
+run_id: e03ac12429f64e89a2bbd161d12296bd
+run_name: classy-stork-283
+run_uuid: e03ac12429f64e89a2bbd161d12296bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784558970
+status: 3
+tags: []
+user_id: suman

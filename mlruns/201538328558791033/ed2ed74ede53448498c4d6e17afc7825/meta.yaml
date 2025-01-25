@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033/ed2ed74ede53448498c4d6e17afc7825/artifacts
+end_time: 1737784558932
+entry_point_name: ''
+experiment_id: '201538328558791033'
+lifecycle_stage: active
+run_id: ed2ed74ede53448498c4d6e17afc7825
+run_name: honorable-hog-694
+run_uuid: ed2ed74ede53448498c4d6e17afc7825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784555584
+status: 3
+tags: []
+user_id: suman

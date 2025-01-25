@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033/db6ce011f43d42fbbeece154a4f8ced9/artifacts
+end_time: 1737784555576
+entry_point_name: ''
+experiment_id: '201538328558791033'
+lifecycle_stage: active
+run_id: db6ce011f43d42fbbeece154a4f8ced9
+run_name: charming-kit-151
+run_uuid: db6ce011f43d42fbbeece154a4f8ced9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784551136
+status: 3
+tags: []
+user_id: suman
