@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/187532214547065226/a279f022bfbc4b3d9cc0677203c97873/artifacts
+end_time: 1737783251738
+entry_point_name: ''
+experiment_id: '187532214547065226'
+lifecycle_stage: active
+run_id: a279f022bfbc4b3d9cc0677203c97873
+run_name: clumsy-ram-124
+run_uuid: a279f022bfbc4b3d9cc0677203c97873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737783247272
+status: 3
+tags: []
+user_id: suman

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/187532214547065226/b828dc6a3be04cc28a0c69b912313dfe/artifacts
+end_time: 1737783254968
+entry_point_name: ''
+experiment_id: '187532214547065226'
+lifecycle_stage: active
+run_id: b828dc6a3be04cc28a0c69b912313dfe
+run_name: useful-frog-758
+run_uuid: b828dc6a3be04cc28a0c69b912313dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737783251746
+status: 3
+tags: []
+user_id: suman
