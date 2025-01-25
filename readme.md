@@ -15,9 +15,8 @@ mlflow ui
 
 ##########change dataset and run the model run again#########
 
-echo "Adding more noise to dataset..."
-sed -i 's/0.1/0.2/' generate_dataset.py
-python generate_dataset.py
+change the noise parameter in the generate_dataset.py file
+run python generate_dataset.py
 
 python .\trainmodel.py
 
