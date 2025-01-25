@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033
+creation_time: 1737784423344
+experiment_id: '201538328558791033'
+last_update_time: 1737784423344
+lifecycle_stage: active
+name: Simple Linear Regression Experiment

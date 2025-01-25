@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033/e61e45aa6cf74835af5a080258e77767/artifacts
+end_time: 1737784434278
+entry_point_name: ''
+experiment_id: '201538328558791033'
+lifecycle_stage: active
+run_id: e61e45aa6cf74835af5a080258e77767
+run_name: classy-moth-361
+run_uuid: e61e45aa6cf74835af5a080258e77767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784431058
+status: 3
+tags: []
+user_id: suman

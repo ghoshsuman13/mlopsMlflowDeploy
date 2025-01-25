@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MlOps/mlopsMlflowDeploy/mlruns/201538328558791033/9685ca1b79524381bde40e06694deecf/artifacts
+end_time: 1737784431048
+entry_point_name: ''
+experiment_id: '201538328558791033'
+lifecycle_stage: active
+run_id: 9685ca1b79524381bde40e06694deecf
+run_name: zealous-frog-769
+run_uuid: 9685ca1b79524381bde40e06694deecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784428077
+status: 3
+tags: []
+user_id: suman
